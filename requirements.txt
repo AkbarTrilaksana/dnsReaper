@@ -5,5 +5,5 @@ boto3==1.24.40
 cloudflare==2.9.11
 colorama==0.4.5
 azure-mgmt-dns==8.0.0
-azure-identity==1.10.0
+azure-identity==1.16.1
 msrestazure==0.6.4

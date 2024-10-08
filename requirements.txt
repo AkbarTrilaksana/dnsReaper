@@ -7,3 +7,7 @@ colorama==0.4.5
 azure-mgmt-dns==8.0.0
 azure-identity==1.10.0
 msrestazure==0.6.4
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+cryptography>=42.0.8 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
